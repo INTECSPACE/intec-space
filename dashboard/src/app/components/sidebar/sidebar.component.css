@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'GlacialIndifferent';
+    src: url("/assets/fonts/GlacialIndifference-Regular.otf") format("opentype");
+}
+.simple-text {
+    font-family: 'GlacialIndifferent';
+    letter-spacing: 3px;
+}
