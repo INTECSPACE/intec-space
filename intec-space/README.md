@@ -1,18 +1,13 @@
-# Smelly Cat
+# Intec Space
 
-Balança inteligente de estoque de areia de gatos integrada com EUGENIO.
+identificador de produtos em prateleira integrada com EUGENIO.
 
 ## Hardware
 
 * NodeMCU ESP8266
-* 4 células de carga
-* Sensor HX711
+* 1 sensor LDR
 
 ## Software
 
-* Platformio
+* Arduino IDE
 * [EUGENIO](https://eugenio.io/)
-
-[Video Tutorial](https://youtu.be/dmI_Kcd-qe0)
-
-`TODO: adicionar mais documentação`
