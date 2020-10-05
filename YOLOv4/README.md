@@ -1,6 +1,6 @@
 # Intec Space
 
-Inteligência Artificial detection person para conhecimento do número de pessoas nas lojas.
+- Inteligência Artificial detection person para conhecimento do número de pessoas nas lojas.
 
 ## YOLOv4 - Darknet
 
